@@ -1,6 +1,5 @@
 # Currency Scrapper
 
-## Source
 
 
 
